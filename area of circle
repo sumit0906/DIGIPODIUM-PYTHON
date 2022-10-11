@@ -1,0 +1,8 @@
+from tkinter.ttk import Radiobutton
+
+
+print("area of circle")
+radius = float(input("radius"))
+area = 3.14*radius*radius
+print(area)
+print(f'circlse with r={radius}has area = {area}')

@@ -1,0 +1,6 @@
+print("this is a sample of python script")
+name = input("what is your nsme?")
+phoneno =input("phone")
+college =input("college name._.")
+address = input("city->")
+print(name,phoneno,college,address)
